@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="title_of_event" > null</string>
+    <string name="date_of_event" >null</string>
+    <string name="done_of_event">not</string>
+    <string name="event_hint">Title:</string>
+    <string name="date_picker_title">Date of event:</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d crimes</string>
+    <string name="delete">Delete</string>
+</resources>
